@@ -1,0 +1,24 @@
+{
+  "name": "facebook-messenger-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tenish14/facebook-messenger-bot.git"
+  },
+  "author": "Tenish14",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tenish14/facebook-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/Tenish14/facebook-messenger-bot#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
